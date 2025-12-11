@@ -44,3 +44,14 @@ Specific methods used to perform a tactic
 Break down techniques into more specific methods  
 (e.g., Phishing → Spearphishing Attachment).
 
+### **Procedures (P)** – *Real-world implementation*  
+Exactly how threat actors or malware use a technique in practice  
+(real commands, scripts, tools, step-by-step behavior).
+
+### **Mitigations (M)** – *How to defend against it*  
+Recommended defensive measures to prevent or reduce the impact of a technique.
+
+---
+
+### **One-sentence takeaway**  
+**Tactics = goal, Techniques = how, Procedures = real examples, Mitigations = how to stop it.**
