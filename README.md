@@ -28,3 +28,19 @@ ATT&CK solves this by providing:
 In essence, ATT&CK exists so cyber defenders, analysts, red teamers, and researchers can communicate effectively.
 
 ---
+
+
+## 🔹 MITRE ATT&CK Structure (Clear & Concise)
+
+### **Tactics (T)** – *The attacker’s goal*  
+High-level objectives the adversary wants to achieve  
+(e.g., Initial Access, Privilege Escalation, Defense Evasion).
+
+### **Techniques (T)** – *How the attacker achieves the goal*  
+Specific methods used to perform a tactic  
+(e.g., Phishing, DLL Injection, Credential Dumping).
+
+### **Sub-Techniques** – *Detailed variations of a technique*  
+Break down techniques into more specific methods  
+(e.g., Phishing → Spearphishing Attachment).
+
